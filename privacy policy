@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Privacy Policy – GoalSteps</title>
+  <style>
+    body {
+      font-family: "Segoe UI", Roboto, Arial, sans-serif;
+      background-color: #ffffff;
+      color: #222;
+      padding: 2rem;
+      max-width: 850px;
+      margin: auto;
+      line-height: 1.7;
+    }
+    h1, h2 {
+      color: #1a1a1a;
+    }
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 0.5rem;
+      text-align: center;
+    }
+    h2 {
+      font-size: 1.3rem;
+      margin-top: 2rem;
+    }
+    p {
+      margin-bottom: 1rem;
+    }
+    a {
+      color: #007aff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.9rem;
+      color: #666;
+      margin-top: 3rem;
+      padding-top: 1rem;
+      border-top: 1px solid #eee;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Privacy Policy</h1>
+  <p><em>Last updated: August 4, 2025</em></p>
+
+  <p>
+    This Privacy Policy describes how GoalSteps ("we", "us", or "our") handles your information when you use our mobile application.
+  </p>
+
+  <h2>1. Information We Do Not Collect</h2>
+  <p>
+    GoalSteps does not collect, store, or transmit any personal data or sensitive user information. We do not require registration, login, or account creation of any kind.
+  </p>
+
+  <h2>2. No Advertising</h2>
+  <p>
+    Our app does not include any advertising services or third-party ad networks.
+  </p>
+
+  <h2>3. In-App Purchases & RevenueCat</h2>
+  <p>
+    We use <a href="https://www.revenuecat.com/" target="_blank" rel="noopener noreferrer">RevenueCat</a> as a third-party service to manage in-app subscriptions. RevenueCat does not access or store any personally identifiable information but may collect anonymous data such as purchase history to enable subscription functionality.
+  </p>
+  <p>
+    For details on how RevenueCat handles data, please review their
+    <a href="https://www.revenuecat.com/privacy" target="_blank" rel="noopener noreferrer">Privacy Policy</a>.
+  </p>
+
+  <h2>4. Data Security</h2>
+  <p>
+    Since we do not collect or store personal data, there is no risk of data leakage from our systems. Any data handled by third-party services is subject to their own security practices and privacy policies.
+  </p>
+
+  <h2>5. Children's Privacy</h2>
+  <p>
+    GoalSteps does not knowingly collect any information from children under the age of 13. The app is suitable for general audiences and does not contain age-restricted content.
+  </p>
+
+  <h2>6. Contact Us</h2>
+  <p>
+    If you have any questions or concerns about this Privacy Policy, you may contact us at:
+    <br />
+    <a href="mailto:newmonaalazz@gmail.com">newmonaalazz@gmail.com</a>
+  </p>
+
+  <footer>
+    &copy; 2025 GoalSteps. All rights reserved.
+  </footer>
+
+</body>
+</html>
